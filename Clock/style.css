@@ -1,0 +1,7 @@
+/* Basic styles for the clock */
+.clock {
+  font-size: 48px; /* Large text size for easy reading */
+  text-align: center; /* Centers the text horizontally */
+  margin-top: 20%; /* Pushes the clock down from the top of the viewport */
+  font-family: 'Arial', sans-serif; /* Uses Arial font for the clock text */
+}
